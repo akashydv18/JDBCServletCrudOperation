@@ -32,7 +32,6 @@ The project also includes **student registration, login, display, and update fun
 * **MySQL**
 * **Apache Tomcat**
 * **Maven**
-* **HTML / CSS**
 
 ---
 
